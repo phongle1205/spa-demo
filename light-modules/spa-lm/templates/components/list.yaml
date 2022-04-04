@@ -1,7 +1,8 @@
-title: List
+---
+title: "env/a48ff32c-ee4b-4635-946c-ec110438bc86"
 areas:
   items:
-    title: List Items Area
+    title: "List Items Area"
     availableComponents:
       Item:
-        id: spa-lm:components/listItem
+        id: "spa-lm:components/listItem"
