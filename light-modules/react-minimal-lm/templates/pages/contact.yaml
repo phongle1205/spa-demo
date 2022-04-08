@@ -1,18 +1,15 @@
-title: 'React: Contact'
-baseUrl: http://localhost:3000
+---
+title: "env/multi-branches-test-d8577d28-0c61-44fc-85f5-654f4ea2ee93"
+baseUrl: "http://localhost:3000"
 routeTemplate: "{{@path}}"
-
-dialog: spa-lm:pages/basic
-
-renderType: spa
-class: info.magnolia.rendering.spa.renderer.SpaRenderableDefinition
-
+dialog: "spa-lm:pages/basic"
+renderType: "spa"
+class: "info.magnolia.rendering.spa.renderer.SpaRenderableDefinition"
 areas:
-
   main:
-    title: Main Area
+    title: "Main Area"
     availableComponents:
       Paragraph:
-        id: spa-lm:components/paragraph
+        id: "spa-lm:components/paragraph"
       Expander:
-        id: spa-lm:components/expander
+        id: "spa-lm:components/expander"
