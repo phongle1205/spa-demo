@@ -1,13 +1,12 @@
-title: Expander
+---
+title: "env/multi-branches-test-c9fc174e-b89a-4cfe-bf37-634592004755"
 areas:
   expanderItems:
-    title: Expander Area
-
+    title: "Expander Area"
     availableComponents:
       Image:
-        id: spa-lm:components/image
+        id: "spa-lm:components/image"
       Paragraph:
-        id: spa-lm:components/paragraph
+        id: "spa-lm:components/paragraph"
       Headline:
-        id: spa-lm:components/headline
-
+        id: "spa-lm:components/headline"
