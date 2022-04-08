@@ -1,7 +1,8 @@
-title: List
+---
+title: "env/single-branch-test-636ee312-d544-4363-a93f-8a7be7526bbb"
 areas:
   items:
-    title: List Items Area
+    title: "List Items Area"
     availableComponents:
       Item:
-        id: spa-lm:components/listItem
+        id: "spa-lm:components/listItem"
