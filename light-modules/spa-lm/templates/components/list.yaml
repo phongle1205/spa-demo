@@ -1,7 +1,8 @@
-title: List
+---
+title: "env/multi-branches-test-17c9ff09-949c-4ccc-a00e-8d8679b062f4"
 areas:
   items:
-    title: List Items Area
+    title: "List Items Area"
     availableComponents:
       Item:
-        id: spa-lm:components/listItem
+        id: "spa-lm:components/listItem"
